@@ -1,0 +1,13 @@
+# Copyright 2022 Jason C. Nucciarone
+# See LICENSE file for licensing details.
+
+# For a complete list of supported options, see:
+# https://juju.is/docs/sdk/metadata-reference
+name: debugger
+display-name: |
+  Debugger
+description: |
+  This charm supports debugging charms for when they give us grief.
+summary: |
+  This charm supports a variety of debugging operators such as dumping logs,
+  encoding, code snippet injection, etc.
